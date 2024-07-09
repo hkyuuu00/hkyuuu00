@@ -31,4 +31,4 @@
 <a href="https://hkyuuu00.github.io/"> <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"> </a>
 <br/><br/>
 ## 💞️ Github Stats
-<img src="https://raw.githubusercontent.com/hkyuuu00/github-stats-transparent/output/generated/overview.svg" width="49.2%" /> <img src="https://raw.githubusercontent.com/hkyuuu00/github-stats-transparent/output/generated/languages.svg?exclude_repo=Frontend-School3" width="49.2%" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkyuuu00)](https://github.com/anuraghazra/github-readme-stats)
