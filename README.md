@@ -1,5 +1,5 @@
 ## 👀 About
-### Hi Welcome, I'm **HyunKyu LEE**. <br/><br/>
+###👋 Hi there! Welcome, I'm **HyunKyu LEE**. <br/><br/>
 #### Aspiring to be:
 **Web Developer | Blockchain Developer**<br/><br/>
 
