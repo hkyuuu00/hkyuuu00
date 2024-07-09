@@ -1,7 +1,7 @@
 ## 👀 About
-Hi there! Welcome, I'm **HyunKyu LEE**. 
+Hi! Welcome, I'm **HyunKyu LEE**. 
 
-### Aspiring to Be:
+#### Aspiring to Be:
 **Web Developer | Blockchain Developer**
 
 > **Dedicated to continuous learning and adapting to new technologies.**
