@@ -4,7 +4,7 @@
 ### Aspiring to Be:
 **Web Developer | Blockchain Developer**
 
-> **Dedicated to continuous learning and adapting to new technologies.**
+*Dedicated to continuous learning and adapting to new technologies.*
 
 ## ⚡ Tech Stacks
 
