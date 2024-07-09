@@ -27,14 +27,14 @@
 <br/><br/>
 
 ## 📫 Contact
-<center>
+<div align="center">
 <a href="mailto:lhk31210@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 <a href="https://hkyuuu00.github.io/"> <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"> </a>
 <br/><br/>
-</center>
+</div>
 
 ## 💞️ Github Stats
-<center>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkyuuu00&layout=compact"><br/>
 <img src="https://github-readme-stats.vercel.app/api?username=hkyuuu00&show_icons=true">
-</center>
+</div>
