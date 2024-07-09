@@ -1,8 +1,14 @@
 ## 👀 About
-Hi Welcome, I'm HyunKyu LEE<br/><br/>
-I want to be<br/>
-<strong>Web Developer | BlockChain Developer</strong><br/>
-Dedicated to continuous learning and adapting to new technologies.
+Hi there! Welcome, I'm **HyunKyu LEE**. 
+
+### Aspiring to Be:
+**Web Developer | Blockchain Developer**
+
+> **Dedicated to continuous learning and adapting to new technologies.**
+
+---
+
+Feel free to connect with me and explore the journey of technology together!
 ## ⚡ Tech Stacks
 
 ## 📫 Contact
